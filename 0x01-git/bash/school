@@ -1,6 +1,2 @@
 #!/bin/bash
-select school in ; do
-    $school
-done
-
-"The school is open!"
+["The school is open!"]
